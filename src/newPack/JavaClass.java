@@ -7,6 +7,7 @@ public class JavaClass {
 		System.out.println("Hi, This is first project");
 		System.out.println("This is next line");
 		System.out.println("This is 3rd line");
+		System.out.println("This is 4th line");
 		
 
 	}
