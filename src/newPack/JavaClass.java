@@ -10,8 +10,8 @@ public class JavaClass {
 		System.out.println("This is 4th line");
 		System.out.println("This is 5th lien of code");
 		
-		Student s=new Student();
-		s.sayHello();
+		//Student s=new Student();
+		//s.sayHello();
 		
 
 	}
